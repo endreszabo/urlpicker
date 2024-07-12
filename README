@@ -92,6 +92,7 @@ URxvt.url-picker.prompt.backgroundColor	Bg color for "Follow:" prompt
 URxvt.url-picker.prompt.foregroundColor	Fg color for "Follow:" prompt
 URxvt.url-picker.status.backgroundColor	Bg color for status messages
 URxvt.url-picker.status.foregroundColor	Fg color for status messages
+URxvt.url-picker.skipSelection	"true" for not limiting search to selections
 
 Colors must be specified using urxvt color indices as described in
 the urxvt(1) man page under COLORS AND GRAPHICS.
